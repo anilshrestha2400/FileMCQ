@@ -6,8 +6,60 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+* {
+  font-family: "Verdana", cursive, sans-serif;
+  color: #ffffff;
+}
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+  background-color: #7cc6fe;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+h2{
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 3rem;
+  color: black;
+}
+label{
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 2rem;
+  color: black;
+}
+.ques{
+  background: #FFFFFF;
+box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2);
+border-radius: 12px;
+padding: 1rem;
+}
+input[type="radio"] {
+  width: 1.5rem;
+  height: 3rem;
+}
+.radio{
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.bookdiv {
+  margin-top: 1.25rem;
+  width: fit-content;
+}
+.bookbtn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #7cc6fe;
+  color: white;
+  border: 1px solid #7cc6fe;
+  font-size: 1rem;
+  line-height: 1rem;
+  font-weight: 400;
+  padding: 0.5rem 1.5rem;
+  border-radius: 2.5rem;
 }

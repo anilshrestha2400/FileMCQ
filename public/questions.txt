@@ -1,0 +1,20 @@
+Question 1: What is the capital of France?
+A: Paris
+B: London
+C: Rome
+D: Madrid
+Answer: Paris
+
+Question 2: What is the largest planet in our solar system?
+A: Venus
+B: Earth
+C: Jupiter
+D: Mars
+Answer: Jupiter
+
+Question 3: Who is the founder of Microsoft?
+A: Steve Jobs
+B: Bill Gates
+C: Mark Zuckerberg
+D: Jeff Bezos
+Answer: Bill Gates
